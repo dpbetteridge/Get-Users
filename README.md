@@ -4,3 +4,4 @@ This is a Microsoft PowerShell script to export local users to a CSV file.  The 
 - [@David Betteridge](https://www.github.com/dpbetteridge)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
+Check out [@octokatherine](https://www.github.com/octokatherine).  Her work at [readme.so](https://readme.so) is awesome!
